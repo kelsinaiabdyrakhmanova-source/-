@@ -1,0 +1,6 @@
+{
+  "name": "Bilim AI",
+  "description": "Кыргызстандагы бүтүрүүчүлөр үчүн ОРТга даярдоочу заманбап билим берүү веб-платформасы жана жеке ИИ-репетитор",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
